@@ -1,1 +1,29 @@
+# Simple Calculator
 
+## Description
+A simple calculator built using Python. It performs basic arithmetic operations.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Handles division by zero
+
+## Technologies Used
+- Python
+   
+
+## Sample Output
+
+Simple Calculator
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your choice: 1
+Enter first number: 10
+Enter second number: 20
+
+Result = 30.0
